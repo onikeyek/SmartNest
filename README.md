@@ -10,3 +10,23 @@ Key Capabilities:
 - Analytics Dashboard - Detailed action logs and usage statistics across all devices
 - Cost Optimization - Smart recommendations to reduce energy consumption and lower bills
 
+
+## How to Run
+1. Install Flet:
+   ```bash
+   pip install flet
+2. Run the app:
+    ```bash
+    python SmartNest.py
+
+
+
+## Technologies Used
+- Python 3.x
+- Flet Framework
+
+## Author
+Naimot Yekini
+- Savonia University of Applied Sciences
+- Information Technology, IoT Student
+
